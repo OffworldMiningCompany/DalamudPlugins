@@ -4,8 +4,8 @@
     "Name": "AutoMammet (HQ)",
     "Punchline": "Calculates a good enough schedule for your Island Sanctuary workshops.",
     "Description": "Calculates a good enough schedule for the next cycle of your Island Sanctuary workshops.",
-    "InternalName": "autoMammetHq",
-    "AssemblyVersion": "1.0.0",
+    "InternalName": "AutoMammetHQ",
+    "AssemblyVersion": "1.0.1",
     "ApplicableVersion": "any",
     "Tags": [
       "island sanctuary",
@@ -16,11 +16,11 @@
     "IconUrl": "https://github.com/OffworldMiningCompany/AutoMammetHQ/raw/main/AutoMammetHQ/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1665129287,
+    "LastUpdated": 1665151979,
     "RepoUrl": "https://github.com/OffworldMiningCompany/AutoMammetHQ",
-    "DownloadCount": 2,
-    "DownloadLinkInstall": "https://github.com/OffworldMiningCompany/AutoMammetHQ/releases/download/1.0.0/AutoMammetHQ_1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/OffworldMiningCompany/AutoMammetHQ/releases/download/1.0.0/AutoMammetHQ_1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/OffworldMiningCompany/AutoMammetHQ/releases/download/1.0.0/AutoMammetHQ_1.0.0.zip"
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/OffworldMiningCompany/AutoMammetHQ/releases/download/1.0.1/AutoMammetHQ_1.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/OffworldMiningCompany/AutoMammetHQ/releases/download/1.0.1/AutoMammetHQ_1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/OffworldMiningCompany/AutoMammetHQ/releases/download/1.0.1/AutoMammetHQ_1.0.1.zip"
   }
 ]
